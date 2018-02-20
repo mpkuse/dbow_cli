@@ -1,0 +1,5 @@
+*.pyc 
+*.swp
+orbvoc.dbow3
+images/*
+build/*
